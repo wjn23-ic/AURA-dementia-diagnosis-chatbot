@@ -1,0 +1,7 @@
+{
+  "name": "Memory Lane Companion",
+  "description": "A compassionate voice companion for individuals with dementia, featuring real-time conversation analysis for healthcare providers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
